@@ -16,6 +16,9 @@
     </option>
   </component>
   <component name="GOROOT" path="H:/Golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rVLJmDmyJxR5eSS54zme6OH33y" />
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
