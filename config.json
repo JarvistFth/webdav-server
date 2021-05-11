@@ -1,0 +1,13 @@
+{
+  "port": "7212",
+  "dirs": [
+    {
+      "prefix": "/movie",
+      "dir": "F:/Movie/"
+    },
+    {
+      "prefix": "/h",
+      "dir": "F:/webdav/"
+    }
+  ]
+}
