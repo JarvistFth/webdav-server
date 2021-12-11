@@ -6,3 +6,6 @@ and key "dir" means the file-dir in local pc.
 
 ![](https://jaroffertree.oss-cn-hongkong.aliyuncs.com/QQ%E5%9B%BE%E7%89%8720211211160942.png)
 
+e.g. 
+movies stores in "h:/movie", then we set "prefix" as "movie" and "dir" as "h:/movie", then we fill "movie" in nplayer - new server- webdav - path
+it works.
